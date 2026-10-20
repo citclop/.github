@@ -1,2 +1,0 @@
-# .github
-implementação do Astronac
